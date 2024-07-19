@@ -16,11 +16,11 @@ Welcome, brave adventurer, to the mystical realms of my GitHub treasury! ✨ Her
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Villad-dev&show_icons=true&theme=radical" alt="Sorcerer's GitHub stats"
+    <img src="https://github-readme-stats.vercel.app/api?username=Villad-dev&show_icons=true&theme=tokyonight" alt="Sorcerer's GitHub stats"
     width="400" height="150"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villad-dev&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villad-dev&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
   </a>
 </div>
 
