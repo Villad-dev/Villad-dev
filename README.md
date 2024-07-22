@@ -49,16 +49,16 @@ Welcome, brave adventurer, to the mystical realms of my GitHub treasury! ✨ Her
 
 ## 📚 Tome of Enchants
 
-### [Real Estate App](https://github.com/Villad-dev/real-estate-app)
+### [Real Estate App](https://github.com/Villad-dev/wherehome)
 **Description:** In the enchanted lands where homes and hearths are plentiful, this artifact helps adventurers find their perfect abode. Forged with Flutter and Firebase, it reveals the magic of real estate to every seeker.
 
-### [Music Player Widget](https://github.com/Villad-dev/music-player-widget)
+### [Music Player Widget](https://github.com/Villad-dev/widget-media-player)
 **Description:** From the sonorous realms comes a widget that harmonizes melodies into the daily life of a wizard. Crafted with Dart and blessed by the Muse of Music, it plays tunes that soothe the soul and invigorate the mind.
 
-### [Grocery Store App](https://github.com/Villad-dev/grocery-store-app)
+### [Grocery Store App](https://github.com/Villad-dev/GroceryStore)
 **Description:** In the bustling bazaars and mystical markets, this app assists merchants and buyers alike. Built with Kotlin and adorned with features like real-time inventory from the Firebase founts, it simplifies the quests for goods and produce.
 
-### [Webscraping Plane Crashes](https://github.com/Villad-dev/webscraping-plane-crashes)
+### [Webscraping Plane Crashes](https://github.com/Villad-dev/WebScraping)
 **Description:** A scholastic endeavor, this project dives into the open waters of the web, extracting tales of aerial misadventures from the annals of open-source data. A harmonious blend of Python and data alchemy.
 
 ### [More Tome Of Enchants](https://github.com/Villad-dev?tab=repositories)
